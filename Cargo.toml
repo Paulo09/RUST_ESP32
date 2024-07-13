@@ -1,0 +1,9 @@
+[package]
+name = "sinal_transito"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+embedded-hal = "0.2.6"
+esp-idf-sys = { version = "0.21", features = ["std"] }
+esp-idf-hal = "0.24"
