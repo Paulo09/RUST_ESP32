@@ -1,4 +1,9 @@
-fazer um programa sinal de transito escrito RUST usando a interface ESP32 
+
+                                                
+                                                Fazer um programa sinal de transito escrito RUST usando a interface ESP32 
+
+
+                                                
 
 Para criar um programa de sinal de trânsito em Rust usando a interface ESP32, você precisará usar o ambiente de desenvolvimento Rust, juntamente com a biblioteca esp-idf-sys para interagir com o hardware ESP32. O projeto envolverá configurar LEDs para representar sinais de trânsito (vermelho, amarelo e verde) e controlar seu comportamento.
 
